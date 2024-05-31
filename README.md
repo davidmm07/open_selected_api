@@ -144,6 +144,9 @@ Request examples:
 
 ![image](https://github.com/davidmm07/open_selected_api/assets/15944053/c0cee155-ccbf-4c14-a336-d9241ab3b65f)
 
+![image](https://github.com/davidmm07/open_selected_api/assets/15944053/de2651fb-34d1-49c9-a2d6-b8fa8c9eac88)
+
+
 ### Additional Notes
 Ensure your database engine is properly configured in the app.py file.
 For more details on Flask configuration, visit the Flask documentation.
