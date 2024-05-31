@@ -121,6 +121,10 @@ The HTML report will be generated in the htmlcov directory.
 ```bash
   sls deploy --verbose
 ```
+After deploy, terminal/cmd looks like this:
+
+![image](https://github.com/davidmm07/open_selected_api/assets/15944053/37dd9194-e995-41df-85ca-aaf3b4032647)
+
 
 4. **Check request in real time :**
 ```bash
@@ -132,7 +136,13 @@ The HTML report will be generated in the htmlcov directory.
   sls remove
 ```
 
+Request examples:
 
+![image](https://github.com/davidmm07/open_selected_api/assets/15944053/a3efb2c4-7ae5-46e0-8cd8-eb473a8309a8)
+
+![image](https://github.com/davidmm07/open_selected_api/assets/15944053/e2bb24da-7b42-417b-95bb-bfe26bf16fc1)
+
+![image](https://github.com/davidmm07/open_selected_api/assets/15944053/c0cee155-ccbf-4c14-a336-d9241ab3b65f)
 
 ### Additional Notes
 Ensure your database engine is properly configured in the app.py file.
