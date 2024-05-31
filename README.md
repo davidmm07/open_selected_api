@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Flask web application using SQLite as the database. The following instructions will guide you through setting up the development environment, running the application, testing, linting, formatting the code, and managing database migrations.
+This project is a Flask web application using SQLite as the database. The following instructions will guide you through setting up the development environment, running the application, testing, and managing database migrations.
 
 ## Prerequisites
 
