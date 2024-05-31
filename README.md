@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed on your machine:
 
     ```env
     FLASK_APP=./app/app.py
-    FLASK_ENV=development
+    FLASK_ENV=Dev
     ```
 
 ## Makefile Commands
